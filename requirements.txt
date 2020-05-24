@@ -7,3 +7,6 @@ plotly-express
 voila
 numpy
 folium
+xlrd
+numpy
+
