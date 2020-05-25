@@ -4,5 +4,6 @@ This repo is connected with binder and jupter notebook is hosted in binder as a 
 Tools:<br>
 🔥Binder<br>
 🔥jupyter<br>
-🔥Folium
+🔥Folium<br>
+🔥Voila<br>
 
